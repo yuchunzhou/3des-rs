@@ -1,3 +1,6 @@
+// author: moshengliang
+// github repo: https://github.com/moshengliang/3DES
+
 #ifndef __3DES_H_
 #define __3DES_H_
 
