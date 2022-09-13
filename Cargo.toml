@@ -2,6 +2,13 @@
 name = "three-des-rs"
 version = "0.1.0"
 edition = "2021"
+authors = ["yuchunzhou <yuchunzhou1990@gmail.com>"]
+keywords = ["crypto", "3des", "cipher"]
+categories = ["cryptography", "algorithms"]
+license = "GPL-3.0"
+repository = "https://github.com/yuchunzhou/3des-rs"
+homepage = "https://github.com/yuchunzhou/3des-rs"
+description = "3des cipher for rustaceans"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
