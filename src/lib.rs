@@ -34,6 +34,7 @@ extern "C" {
     ) -> u32;
 }
 
+#[derive(Debug)]
 pub struct Result<'a>(pub &'a [u8]);
 
 impl Drop for Result<'_> {
